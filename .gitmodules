@@ -1,6 +1,3 @@
 [submodule "dataproxy/messytables"]
 	path = dataproxy/messytables
 	url = git://github.com/okfn/messytables.git
-[submodule "dataproxy/vendor/dataconverters"]
-	path = dataproxy/vendor/dataconverters
-	url = git://github.com/okfn/dataconverters.git
